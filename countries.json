@@ -1,0 +1,53 @@
+[
+    {
+        "model": "member.Country",
+        "pk": 1,
+        "fields": {
+            "iso_3166_1_numeric": "116",
+            "iso_3166_1_a2": "KH",
+            "iso_3166_1_a3": "KHM",
+            "country_general_name": "Cambodia",
+            "country_general_name_th": "กัมพูชา",
+            "country_formal_name": "Kingdom of Cambodia",
+            "country_formal_name_th": "ราชอาณาจักรกัมพูชา",
+            "capital_city": "Phnom Penh",
+            "capital_city_th": "พนมเปญ",
+            "continent": "14",
+            "languages": "Khmer (official) 95%, French, English"
+        }
+    },
+    {
+        "model": "member.Country",
+        "pk": 2,
+        "fields": {
+            "iso_3166_1_numeric": "634",
+            "iso_3166_1_a2": "QA",
+            "iso_3166_1_a3": "QAT",
+            "country_general_name": "Qatar",
+            "country_general_name_th": "กาตาร์",
+            "country_formal_name": "State of Qatar",
+            "country_formal_name_th": "รัฐกาตาร์",
+            "capital_city": "Doha",
+            "capital_city_th": "โดฮา",
+            "continent": "15",
+            "languages": "Arabic (official), English commonly used as a second language"
+        }
+    },
+    {
+        "model": "member.Country",
+        "pk": 3,
+        "fields": {
+            "iso_3166_1_numeric": "410",
+            "iso_3166_1_a2": "KR",
+            "iso_3166_1_a3": "KOR",
+            "country_general_name": "South Korea",
+            "country_general_name_th": "เกาหลีใต้",
+            "country_formal_name": "Republic of Korea",
+            "country_formal_name_th": "สาธารณรัฐเกาหลี",
+            "capital_city": "Seoul",
+            "capital_city_th": "โซล",
+            "continent": "11",
+            "languages": "Korean, English widely taught in junior high and high school"
+        }
+    }
+]
